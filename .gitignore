@@ -1,0 +1,9 @@
+local.properties
+.gradle/
+**/build/
+**/*.jks
+**/*.keystore
+dist/SATflow.apk
+dist/SATflow-source.zip
+.DS_Store
+pdf/
